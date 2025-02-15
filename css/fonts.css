@@ -1,0 +1,17 @@
+/* Abel Font */
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel-Regular.ttf');
+}
+
+/* Anton Font */
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Anton-Regular.ttf');
+}
+
+/* inter */
+@font-face{
+    font-family: Inter;
+    src: url('../fonts/Inter_28pt-Regular.ttf');
+}
