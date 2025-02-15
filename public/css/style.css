@@ -25,7 +25,7 @@ html, body {
     /* ------Variables-Fonts----------- */
     --Abel:'Abel', cursive;
     --Anton:'Anton', cursive;
-    --Inter:'Inter', cursive;
+    --Inter:'Inter', 'Space-Mono';
 }
 
 /* -----------------------------global classes-------------------------- */
