@@ -23,8 +23,8 @@ html, body {
     --sky: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 
     /* ------Variables-Fonts----------- */
-    --Abel:'Abel', cursive;
-    --Anton:'Anton', cursive;
+    /* --Abel:'Abel', cursive;
+    --Anton:'Anton', cursive; */
     --Inter:'Inter', 'Space-Mono';
 }
 
