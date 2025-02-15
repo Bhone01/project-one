@@ -189,7 +189,7 @@ p{
 
 /* this is img and main face paragaraph */
 main .site-title {
-    background-image: url('../Assets/blueOcean\ \(3\).jpg');
+    background-image: url('/Assets/blueOcean\ \(3\).jpg');
     height: 100vh;
     display: flex;
     justify-content: center;
